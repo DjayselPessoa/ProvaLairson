@@ -1,4 +1,4 @@
-# Prova LGP1 - Orientador Lairson
+# Prova LGP1 - Orientador Lairson Alencar
 
 Programa tem o simples objetivo de apresentar as questões da prova 17/10/2021
 
